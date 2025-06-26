@@ -95,7 +95,7 @@ Each ticket represents a real-world scenario where I perform structured troubles
 | 5   | Ticket assigned, status changed to In Progress | [`in-progress.png`](https://github.com/rakshita-madival/JSM-Escalated-Ticket/blob/9bf03c8f4ad4524dc59c7eccbe64d92211d5498c/in-progress.png)           |
 | 6   | Added internal note before escalation     | [`internal-note-1.png`](https://github.com/rakshita-madival/JSM-Escalated-Ticket/blob/dfe69f60591d2fe24a2007870dcbe5c294fd7991/internal-note-1.png)           |
 | 7    | Status changed to Pending (Escalated)     | [`pending.png`](https://github.com/rakshita-madival/JSM-Escalated-Ticket/blob/077b210bdfc924783a0a9c05f5feae2fcd593424/pending.png)                   |            |
-| 8    | Internal note added after resolution      | [`internal-note-2.png`]()          |
+| 8    | Internal note added after resolution      | [`internal-note-2.png`](https://github.com/rakshita-madival/JSM-Escalated-Ticket/blob/df8561cb3fdfab186da2da843cfae76dffc5f7b8/internal-note-2.png)          |
 | 9    | Ticket marked as Resolved                 | [`resolved.png`]()                 |
 
 ---
