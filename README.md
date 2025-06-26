@@ -96,7 +96,7 @@ Each ticket represents a real-world scenario where I perform structured troubles
 | 6   | Added internal note before escalation     | [`internal-note-1.png`](https://github.com/rakshita-madival/JSM-Escalated-Ticket/blob/dfe69f60591d2fe24a2007870dcbe5c294fd7991/internal-note-1.png)           |
 | 7    | Status changed to Pending (Escalated)     | [`pending.png`](https://github.com/rakshita-madival/JSM-Escalated-Ticket/blob/077b210bdfc924783a0a9c05f5feae2fcd593424/pending.png)                   |            |
 | 8    | Internal note added after resolution      | [`internal-note-2.png`](https://github.com/rakshita-madival/JSM-Escalated-Ticket/blob/df8561cb3fdfab186da2da843cfae76dffc5f7b8/internal-note-2.png)          |
-| 9    | Ticket marked as Resolved                 | [`resolved.png`]()                 |
+| 9    | Ticket marked as Resolved                 | [`resolved.png`](https://github.com/rakshita-madival/JSM-Escalated-Ticket/blob/0bfd38fdc0fedc70caccc825cce501f4bd9bb958/resolved.png)                 |
 
 ---
 
@@ -117,7 +117,7 @@ This repository showcases my hands-on understanding of real-world IT Support pro
 
 Feel free to connect with me on LinkedIn!
 
-👉 [**Connect with me on LinkedIn**](https://www.linkedin.com/in/rakshita-madival/)
+👉 [**LinkedIn**](https://www.linkedin.com/in/rakshita-madival/)
 
 ---
 
