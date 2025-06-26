@@ -88,15 +88,15 @@ Each ticket represents a real-world scenario where I perform structured troubles
 
 | Step | Description                              | Screenshot File Name            |
 |------|-------------------------------------------|---------------------------------|
-| 1    | Ticket raised by end user                 | `[ticket-raised.png]`()             |
+| 1    | Ticket raised by end user                 | `[ticket-raised.png](https://github.com/rakshita-madival/JSM-Escalated-Ticket/blob/c8658023cb8f72071f34b15fa8c8849bfcf9f797/ticket-raised.png)             |
 | 2    |confirmation page with ticket number after creating |  [`confirmation.png`](https://github.com/rakshita-madival/JSM-Escalated-Ticket/blob/9ea1e638edf97fd33b1bf21b4affafbb74c5fa42/confirmation.png)
 | 3    | Ticket in waiting queue for support       | [`waiting-for-support.png'](https://github.com/rakshita-madival/JSM-Escalated-Ticket/blob/7e9f78a8663e79e665bebca4f03f2a69fb159006/waiting-for-support.png) 
 | 4   | Public comment added after escalation     | [`public-comment.png`](https://github.com/rakshita-madival/JSM-Escalated-Ticket/blob/98ecbd5597c686658ef7958242c52984a8a31e50/public-comment.png)
 | 5   | Ticket assigned, status changed to In Progress | [`in-progress.png`](https://github.com/rakshita-madival/JSM-Escalated-Ticket/blob/9bf03c8f4ad4524dc59c7eccbe64d92211d5498c/in-progress.png)           |
 | 6   | Added internal note before escalation     | [`internal-note-1.png`](https://github.com/rakshita-madival/JSM-Escalated-Ticket/blob/dfe69f60591d2fe24a2007870dcbe5c294fd7991/internal-note-1.png)           |
 | 7    | Status changed to Pending (Escalated)     | [`pending.png`](https://github.com/rakshita-madival/JSM-Escalated-Ticket/blob/077b210bdfc924783a0a9c05f5feae2fcd593424/pending.png)                   |            |
-| 8    | Internal note added after resolution      | [`internal-note-2.png`] ()          |
-| 9    | Ticket marked as Resolved                 | [`resolved.png`] ()                 |
+| 8    | Internal note added after resolution      | [`internal-note-2.png`]()          |
+| 9    | Ticket marked as Resolved                 | [`resolved.png`]()                 |
 
 ---
 
