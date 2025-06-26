@@ -92,7 +92,7 @@ Each ticket represents a real-world scenario where I perform structured troubles
 | 2    |confirmation page with ticket number after creating |  [`confirmation.png`]()
 | 3    | Ticket in waiting queue for support       | [`waiting-for-support.png']()       |
 | 4   | Ticket assigned, status changed to In Progress | [`in-progress.png`](https://github.com/rakshita-madival/JSM-Escalated-Ticket/blob/9bf03c8f4ad4524dc59c7eccbe64d92211d5498c/in-progress.png)           |
-| 5   | Added internal note before escalation     | [`internal-note-1.png`]()           |
+| 5   | Added internal note before escalation     | [`internal-note-1.png`](https://github.com/rakshita-madival/JSM-Escalated-Ticket/blob/dfe69f60591d2fe24a2007870dcbe5c294fd7991/internal-note-1.png)           |
 | 6    | Status changed to Pending (Escalated)     | [`pending.png`]()                   |
 | 7    | Public comment added after escalation     | [`public-comment.png`]()            |
 | 8    | Internal note added after resolution      | [`internal-note-2.png`] ()          |
