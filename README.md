@@ -88,7 +88,7 @@ Each ticket represents a real-world scenario where I perform structured troubles
 
 | Step | Description                              | Screenshot File Name            |
 |------|-------------------------------------------|---------------------------------|
-| 1    | Ticket raised by end user                 | `[ticket-raised.png]`()             |
+| 1    | Ticket raised by end user                 | `[ticket-raised.png]`(https://github.com/rakshita-madival/JSM-Escalated-Ticket/blob/7382bba81cba7f34a9d1f99321780af0fc95663b/confirmation.png)             |
 | 2    |confirmation page with ticket number after creating |  [`confirmation.png`]()
 | 3    | Ticket in waiting queue for support       | [`waiting-for-support.png']()       |
 | 4   | Ticket assigned, status changed to In Progress | [`in-progress.png`]()           |
